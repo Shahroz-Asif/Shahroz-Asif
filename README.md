@@ -7,7 +7,7 @@
 <br>
 
 # 🔗 My Connections
-![Hackerrank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)
+[![Hackerrank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/shahroz_asif)
 
 # 🧠 My Knowledge Domain
 
